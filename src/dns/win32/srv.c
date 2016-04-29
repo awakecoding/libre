@@ -3,6 +3,11 @@
  *
  * Copyright (C) 2010 Creytiv.com
  */
+
+#ifdef HAVE_CONFIG_H
+#include "config.h"
+#endif
+
 #include <winsock2.h>
 #include <iphlpapi.h>
 #include <io.h>

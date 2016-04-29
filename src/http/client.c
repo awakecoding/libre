@@ -4,6 +4,10 @@
  * Copyright (C) 2011 Creytiv.com
  */
 
+#ifdef HAVE_CONFIG_H
+#include "config.h"
+#endif
+
 #include <string.h>
 #include <re_types.h>
 #include <re_mem.h>

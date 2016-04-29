@@ -3,6 +3,11 @@
  *
  * Copyright (C) 2010 Creytiv.com
  */
+
+#ifdef HAVE_CONFIG_H
+#include "config.h"
+#endif
+
 #include <time.h>
 #include <re_types.h>
 #include <re_fmt.h>

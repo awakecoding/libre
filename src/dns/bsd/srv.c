@@ -3,6 +3,11 @@
  *
  * Copyright (C) 2010 Creytiv.com
  */
+
+#ifdef HAVE_CONFIG_H
+#include "config.h"
+#endif
+
 #define _BSD_SOURCE 1
 #include <sys/types.h>
 #include <netinet/in.h>

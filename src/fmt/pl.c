@@ -3,6 +3,11 @@
  *
  * Copyright (C) 2010 Creytiv.com
  */
+
+#ifdef HAVE_CONFIG_H
+#include "config.h"
+#endif
+
 #include <ctype.h>
 #include <sys/types.h>
 #ifdef HAVE_STRINGS_H

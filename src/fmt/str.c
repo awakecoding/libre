@@ -3,6 +3,11 @@
  *
  * Copyright (C) 2010 Creytiv.com
  */
+
+#ifdef HAVE_CONFIG_H
+#include "config.h"
+#endif
+
 #undef __STRICT_ANSI__ /* for mingw32 */
 #include <string.h>
 #ifdef HAVE_STRINGS_H

@@ -1,0 +1,11 @@
+
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+*.a
+*.so
+
+config.h
+

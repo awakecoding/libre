@@ -43,6 +43,11 @@
  *
  * CRC32 code derived from work by Gary S. Brown.
  */
+
+#ifdef HAVE_CONFIG_H
+#include "config.h"
+#endif
+
 #include <re_types.h>
 #include <re_crc32.h>
 

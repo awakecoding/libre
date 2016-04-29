@@ -1,0 +1,9 @@
+#ifndef __CONFIG_H
+#define __CONFIG_H
+
+#cmakedefine HAVE_POLL_H
+#cmakedefine HAVE_UNISTD_H
+#cmakedefine HAVE_SYS_TIME_H
+#cmakedefine HAVE_SYS_SYSCTL_H
+
+#endif
